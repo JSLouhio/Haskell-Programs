@@ -1,4 +1,4 @@
---npr.hs
+--alkusummat.hs
 
 -- selvitettävä luku
 n = 25
